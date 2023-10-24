@@ -1,6 +1,6 @@
 # altschool-backend-exam
 
-# AltschoolExam-BlogApi-
+
 Renderlink-(https://.onrender.com)
 
 This blog passes all the test as required:
